@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lab6-security-assignment/lab6-security-assignment.iml" filepath="$PROJECT_DIR$/lab6-security-assignment/lab6-security-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/waa-june-2002-spring-security.iml" filepath="$PROJECT_DIR$/.idea/waa-june-2002-spring-security.iml" />
+    </modules>
+  </component>
+</project>
